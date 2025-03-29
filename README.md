@@ -1,4 +1,4 @@
-# TomilovRestWebService
+# RestWebService
 POST-Request
 
 # Эмулятор состоит из трех классов:
